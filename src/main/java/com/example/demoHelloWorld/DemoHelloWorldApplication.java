@@ -11,3 +11,4 @@ public class DemoHelloWorldApplication {
 	}
 
 }
+Trying to demo the Automated build
